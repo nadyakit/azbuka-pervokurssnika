@@ -1,0 +1,7 @@
+body {
+  font-family: 'Old Standard TT', serif;
+}
+* {
+  box-sizing: border-box;
+  width: 100%;
+}
