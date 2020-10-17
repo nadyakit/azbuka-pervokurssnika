@@ -1,5 +1,26 @@
 article h1 {
-  margin-top: 20px;
+  position: absolute;
+  width: 1395px;
+  height: 294px;
+  left: 15px;
+  top: -5px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: bold;
   font-size: 288px;
-  /* line-height: 200px; */
+  line-height: 356px;
+  color: #4200FF;
+}
+article h1 + p {
+  position: absolute;
+  width: 346px;
+  height: 42px;
+  left: 1080px;
+  top: 258px;
+
+  font-family: Old Standard TT;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 59px;
 }
