@@ -11,5 +11,50 @@ body {
   height: 1185.37px;
   left: 0px;
   top: 23px;
-
+}
+.bl {
+  background: #4200FF;
+  width: 1440px;
+  height: 5998px;
+  top: 1172px;
+  position: relative;
+  /* opacity: .2; */
+}
+.what {
+  position: absolute;
+  width: 866px;
+  height: 140px;
+  left: 47px;
+  top: 148px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 288px;
+  line-height: 251px;
+  letter-spacing: -0.005em;
+  color: #FFFFFF;
+}
+.what1 {
+  position: absolute;
+  width: 520px;
+  height: 187px;
+  left: 802px;
+  top: 145px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 44px;
+  color: #FFFFFF;
+}
+.what2 {
+  position: absolute;
+  width: 600px;
+  height: 187px;
+  left: 802px;
+  top: 400px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 44px;
+  color: #FFFFFF;
 }
