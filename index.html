@@ -3,22 +3,42 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="stylesheets/style.css">
-    <title>Азбука первокурссника</title>
+    <title>Азбука первокурсника</title>
   <style media="screen">
     body {
-      width: 100%
+      width: 1280px;
       margin: 0 auto;
       display: block;
       position: relative;
       max-width: 100%;
       overflow-x: hidden;
+      height: 8192px;
+    }
+  html {
+    width: 100%
+    max-width: 100%
+    overflow-x: hidden;
+  }
+    body::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      /* background: url("images/1440.jpg"); */
+      height: 100%;
+      display: block;
+      opacity: .2;
     }
   </style>
   </head>
   <body>
     <article>
       <h1>АЗБУКА</h1>
-
+        <p>первокурсника</p>
+          <div class="let">
+            <img src="images/letters1.png" alt="буквопад">
+          </div>
     </article>
 
   </body>
