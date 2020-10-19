@@ -18,7 +18,14 @@ body {
   height: 5998px;
   top: 1172px;
   position: relative;
-  /* opacity: .2; */
+  opacity: .2;
+}
+.let2 img {
+  position: relative;
+  width: 1334.72px;
+  height: 810.88px;
+  left: 15px;
+  top: 21px;
 }
 .what {
   position: absolute;
@@ -57,4 +64,11 @@ body {
   font-size: 36px;
   line-height: 44px;
   color: #FFFFFF;
+}
+.let3 img {
+  position: absolute;
+  width: 1344px;
+  height: 150px;
+  left: 39px;
+  top: 788px;
 }
