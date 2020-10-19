@@ -72,3 +72,11 @@ body {
   left: 39px;
   top: 788px;
 }
+.white {
+  position: absolute;
+  width: 1362px;
+  height: 640px;
+  left: 39px;
+  top: 1048px;
+  background: #FFFFFF;
+}
