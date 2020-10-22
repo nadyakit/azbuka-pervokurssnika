@@ -80,3 +80,63 @@ body {
   top: 1048px;
   background: #FFFFFF;
 }
+.Aa {
+  position: absolute;
+  width: 405px;
+  height: 210px;
+  left: 58px;
+  top: 14px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: #FFFFFF;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.Aa1 {
+  position: absolute;
+  width: 405px;
+  height: 210px;
+  left: 73px;
+  top: 30px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: #1F1BFF;
+}
+.aaa {
+  position: absolute;
+  width: 1361px;
+  height: 640px;
+  left: 2px;
+  top: 0px;
+}
+h2 {
+  fonf-family: Old Standard TT;
+  font-size: 36px;
+  font-style: italic;
+  line-height: 93.6%;
+}
+.zagolovok h2 {
+  position: absolute;
+  width: 128px;
+  height: 32px;
+  left: 651px;
+  top: 96px;
+}
+p {
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 100%;
+}
+.text p {
+  position: absolute;
+  width: 600px;
+  height: 196px;
+  left: 652px;
+  top: 333px;
+}
