@@ -18,7 +18,7 @@ body {
   height: 5998px;
   top: 1172px;
   position: relative;
-  opacity: .2;
+  /* opacity: .2; */
 }
 .let2 img {
   position: relative;
@@ -139,4 +139,520 @@ p {
   height: 196px;
   left: 652px;
   top: 333px;
+}
+.comp img {
+  position: relative;
+  width: 990px;
+  height: 448px;
+  left: 409px;
+  top: 641px;
+}
+.me img {
+  position: absolute;
+  width: 560px;
+  height: 680px;
+  left: -39px;
+  top: 400px;
+}
+.me1 img {
+  position: absolute;
+  width: 503px;
+  height: 627px;
+  left: -8px;
+  top: 463px;
+}
+.white1 {
+  position: absolute;
+  width: 662px;
+  height: 532px;
+  left: 39px;
+  top: 2136px;
+  background: #FFFFFF;
+}
+.bbb {
+  position: absolute;
+  width: 633px;
+  height: 462px;
+  left: 7px;
+  top: 4px;
+}
+.Bb {
+  position: absolute;
+  width: 405px;
+  height: 210px;
+  left: 31px;
+  top: -9px;
+  font-family: Old Standard TT;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: #FFFFFF;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.Bb1 {
+  position: absolute;
+  width: 405px;
+  height: 210px;
+  left: 13px;
+  top: -51px;
+  font-family: Old Standard TT;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: #24FF00;
+}
+.zagolovok2 {
+  position: absolute;
+  width: 128px;
+  height: 32px;
+  left: 532px;
+  top: 206px;
+}
+.text2 {
+  position: absolute;
+  width: 450px;
+  height: 150px;
+  left: 22px;
+  top: 313px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 100%;
+}
+.white2 {
+  position: absolute;
+  width: 662px;
+  height: 532px;
+  left: 701px;
+  top: 0px;
+  background: #FFFFFF;
+}
+.Vv {
+  position: absolute;
+  width: 405px;
+  height: 210px;
+  left: 320px;
+  top: 395px;
+  font-family: Old Standard TT;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: black;
+}
+.Vv1 {
+  position: absolute;
+  width: 405px;
+  height: 210px;
+  left: 310px;
+  top: 379px;
+  font-family: Old Standard TT;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #FF1FF6;
+}
+.vvv {
+  position: absolute;
+  width: 771.32px;
+  height: 850.86px;
+  left: -90px;
+  top: 0px;
+}
+.zagolovok3 {
+  position: absolute;
+  width: 128px;
+  height: 32px;
+  left: 520px;
+  top: 205px;
+}
+.pari1 {
+  position: absolute;
+  left: 34px;
+  top: 245px;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+}
+.pari2 {
+  position: absolute;
+  left: 62px;
+  top: 268px;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+}
+.pari3 {
+  position: absolute;
+  left: 96px;
+  top: 296px;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+}
+.pari4 {
+  position: absolute;
+  left: 131px;
+  top: 321px;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+}
+.pari5 {
+  position: absolute;
+  left: 161px;
+  top: 348px;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+}
+.pari6 {
+  position: absolute;
+  left: 201px;
+  top: 373px;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Old Standard TT;
+  font-style: normal;
+  font-weight: normal;
+}
+.zagolovok4 {
+  position: absolute;
+  width: 1440px;
+  height: 33px;
+  left: -30px;
+  top: 770px;
+  color: white;
+}
+.vkusno img {
+  position: absolute;
+  width: 516px;
+  height: 516px;
+  left: 554px;
+  top: 916px;
+  border: 1px solid #FFFFFF;
+  box-sizing: border-box;
+}
+.Gg {
+  position: absolute;
+  width: 323px;
+  height: 257px;
+  left: 121px;
+  top: 965px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: #FFFFFF;
+}
+.Gg1 {
+  position: absolute;
+  width: 323px;
+  height: 257px;
+  left: 188px;
+  top: 965px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.vkusno1 p {
+  position: absolute;
+  width: 348px;
+  height: 20px;
+  left: 1095px;
+  top: 982px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 93.6%;
+  color: rgba(187, 243, 255, 0.34);
+}
+.fejo {
+  position: absolute;
+  width: 1411px;
+  height: 423.61px;
+  left: -10px;
+  top: 1016px;
+}
+.vilka {
+  position: absolute;
+  width: 259px;
+  height: 284px;
+  left: -39px;
+  top: 1265px;
+}
+.vilka2 {
+  position: absolute;
+  width: 345px;
+  height: 210px;
+  left: 1057px;
+  top: 1240px;
+}
+.white4 {
+  position: absolute;
+  width: 1320px;
+  height: 640px;
+  left: 21px;
+  top: 1539px;
+  background: #FFFFFF;
+}
+.zagolovok5 {
+  position: absolute;
+  width: 128px;
+  height: 32px;
+  left: 62px;
+  top: 105px
+}
+.text4 {
+  position: absolute;
+  width: 671px;
+  height: 60px;
+  left: 62px;
+  top: 258px;
+}
+.Dd {
+  position: absolute;
+  width: 323px;
+  height: 257px;
+  left: 743px;
+  top: 240px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: #24FF00;
+}
+.Dd1 {
+  position: absolute;
+  width: 323px;
+  height: 257px;
+  left: 767px;
+  top: 270px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 356px;
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #1F1BFF;
+}
+.ddd img {
+  position: absolute;
+  width: 1415px;
+  height: 779px;
+  left: -44px;
+  top: auto;
+}
+.white5 {
+  position: absolute;
+  width: 449px;
+  height: 532px;
+  left: 21px;
+  top: 2227px;
+  background: #FFFFFF;
+}
+.white6 {
+  position: absolute;
+  width: 840px;
+  height: 532px;
+  left: 505px;
+  top: 2227px;
+  background: #FFFFFF;
+}
+.Ee {
+  position: absolute;
+  width: 320px;
+  height: 270px;
+  left: 87px;
+  top: 152px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 93.6%;
+  color: #1F1BFF;
+}
+.Ee1 {
+  position: absolute;
+  width: 320px;
+  height: 270px;
+  left: 50px;
+  top: 173px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 94%;
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #FF1FF6;
+}
+.eee1 img {
+  position: absolute;
+  width: 1305px;
+  height: 521px;
+  left: -487px;
+  top: -6px;
+}
+.zagolovok6 {
+  position: absolute;
+  width: 128px;
+  height: 32px;
+  left: 59px;
+  top: 75px;
+}
+.text5 {
+  position: absolute;
+  width: 600px;
+  height: 35px;
+  left: 59px;
+  top: 166px;
+}
+.jaba1 img {
+  position: absolute;
+  width: 203px;
+  height: 288px;
+  left: 3px;
+  top: 237px;
+}
+.jaba2 img {
+  position: absolute;
+  width: 240px;
+  height: 330px;
+  left: 200px;
+  top: 217px;
+}
+.jaba3 img {
+  position: absolute;
+  width: 223.6px;
+  height: 302.22px;
+  left: 430px;
+  top: 215px;
+}
+.jaba4 img {
+  position: absolute;
+  width: 223px;
+  height: 316px;
+  left: 620px;
+  top: 210px;
+}
+.den img {
+  position: absolute;
+  width: 1440px;
+  height: 1087px;
+  left: -33px;
+  top: 2771px;
+}
+.mesyac {
+  position: absolute;
+  width: 1140px;
+  height: 263px;
+  left: 64px;
+  top: 6049px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 100%;
+  color: #FF1FF6;
+}
+.mesyac1 {
+  position: absolute;
+  width: 1140px;
+  height: 263px;
+  left: 46px;
+  top: 6028px;
+  font-family: Old Standard TT;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 288px;
+  line-height: 100%;
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.spustya {
+  position: absolute;
+  width: 286px;
+  height: 67px;
+  left: 751px;
+  top: 6281px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 59px;
+}
+.mmm img {
+  position: absolute;
+  width: 1424px;
+  height: 564px;
+  left: 14px;
+  top: 6008px;
+}
+.semen img {
+  position: absolute;
+  width: 720px;
+  height: 840px;
+  left: 725px;
+  top: 6100px;
+}
+.semen1 img {
+  position: absolute;
+  width: 730px;
+  height: 850px;
+  left: 710px;
+  top: 6090px;
+}
+.text6 {
+  position: absolute;
+  width: 720px;
+  height: 336px;
+  left: 62px;
+  top: 6382px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 100%;
+}
+.text7 {
+  position: absolute;
+  width: 55px;
+  height: 12px;
+  left: 960px;
+  top: 6526px;
+  font-size: 12px;
+}
+.text8 {
+  position: absolute;
+  width: 257px;
+  height: 17px;
+  left: 62px;
+  top: 6881px;
+  font-size: 20px;
+}
+.text9 {
+  position: absolute;
+  width: 180px;
+  height: 17px;
+  left: 545px;
+  top: 6881px;
+  font-size: 20px;
 }
